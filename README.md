@@ -32,7 +32,8 @@
 - Observation : Other regression measures performance are mean absolute error is 6.82 and root mean squared error is 109.13, which has good score comparison to all. XGBoost Regressor has train accuracy of 99.8 and test accuracy of 98.6.
 
 
-![Screenshot (143)](https://user-images.githubusercontent.com/80893814/224046262-518ce82d-e2ec-4ac4-ae82-626d0d31affd.png 250x250)
+<img src="https://user-images.githubusercontent.com/80893814/224046262-518ce82d-e2ec-4ac4-ae82-626d0d31affd.png" width="200" height="400" ">
+
 
 
 
